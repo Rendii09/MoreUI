@@ -9,4 +9,4 @@ Command | Permission | Default
 ------- | ---------- | --------
 /mui | mui.cmd | op
 
-© Rendii09
+© Rendii09 - MoreUI
