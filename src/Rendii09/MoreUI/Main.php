@@ -8,7 +8,7 @@ use pocketmine\Player;
 use pocketmine\plugin\Plugin;
 use pocketmine\plugin\PluginBase;
 
-use pocketmkme\event\Listener;
+use pocketmine\event\Listener;
 
 use pocketmine\utils\TextFormat as C;
 
@@ -42,12 +42,12 @@ class Main extends PluginBase implements Listener{
                         $this->openMenu($sender);
                         return true;
                     }else{
-                        $sender->sendMessage("§cAnda tidak memiliki izin untuk menggunakan peeintah ini!");
+                        $sender->sendMessage(C::RED . "Anda tidak memiliki izin untuk menggunakan peeintah ini");
                         return true;
                     }
 
                 }else{
-                    $sender->sendMessage("§cGunakan perintah ini di dalam game!");
+                    $sender->sendMessage(C::RED . "Gunakan perintah ini di dalam game");
                     return true;
                 }     
         }
