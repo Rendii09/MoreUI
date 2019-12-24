@@ -1,6 +1,6 @@
 # Msg content
 fly.on.msg: "§b[MoreUI] §aFly! Telah di aktifkan"
-fly.on.msg: "§b[MoreUI] §aFly! Telah di nonaktifkan"
+fly.off.msg: "§b[MoreUI] §aFly! Telah di nonaktifkan"
 
 gms.on: "§b[MoreUI] §aMengubah gamemode ke mode Survival!"
 gmc.on: "§b[MoreUI] §aMengubah gamemode ke mode Creatice!"
