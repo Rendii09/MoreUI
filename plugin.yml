@@ -1,0 +1,15 @@
+name: MoreUI
+version: 1.0
+main: Rendii09\MoreUI\Main
+api: [3.0.0, 4.0.0]
+author: Rendii09
+
+commands:
+  mui:
+    description: "MoreUI Command"
+    permission: mui.cmd
+    usage: /mui
+permissions:
+  mui.cmd:
+    default: op
+    description: "MoreUI Command"
