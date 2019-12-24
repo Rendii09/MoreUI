@@ -1,0 +1,41 @@
+# Msg content
+fly.on.msg: "§b[MoreUI] §aFly! Telah di aktifkan"
+fly.on.msg: "§b[MoreUI] §aFly! Telah di nonaktifkan"
+
+gms on: "§b[MoreUI] §aMengubah gamemode ke mode Survival!"
+gmc.on: "§b[MoreUI] §aMengubah gamemode ke mode Creatice!"
+gma.on: "§b[MoreUI] §aMengubah gamemode ke mode Adventure!"
+gmsp.on: "§b[MoreUI] §aMengubah gamemode ke mode Spectactor!"
+
+day.time: "§b[MoreUI] §aMengubah cuaca ke pagi!"
+night.time: "§b[MoreUI] §aMengubah cuaca ke malam!"
+
+# MenuUI
+mui.title: "§l§eMore§bUI"
+mui.content: "§bPilih salah satu command:"
+mui.fly: "§aFly"
+mui gmui: "§aGamemode"
+mui.time: "§aTimeSet"
+
+# FlyUI content
+fly.title: "§l§eFly§bUI"
+fly.content: "§bPilih untuk mengaktifkan Fly:"
+fly.on: "§aON"
+fly off: "§cOFF"
+fly.back: "§cKembali"
+
+# GMUI content
+gm.title: "§l§eGamemode§bUI"
+gm.content: "§bPilih gamemode yang Anda inginkan:"
+gms.btn: "§aSurvival"
+gmc.btn: "§aCreative"
+gma.btn: "§aAdventure"
+gmsp.btn: "§aSpectactor"
+gm.back: "§cKembali"
+
+# Time Set content
+tmset.title: "§l§eTimeSet§bUI"
+tmset.content: "§bPilih untuk menganti Waktu:"
+tmset.day: "§aPagi"
+tmset.night: "§aMalam"
+tmset.back: "§cKembali"
