@@ -2,7 +2,7 @@
 fly.on.msg: "§b[MoreUI] §aFly! Telah di aktifkan"
 fly.on.msg: "§b[MoreUI] §aFly! Telah di nonaktifkan"
 
-gms on: "§b[MoreUI] §aMengubah gamemode ke mode Survival!"
+gms.on: "§b[MoreUI] §aMengubah gamemode ke mode Survival!"
 gmc.on: "§b[MoreUI] §aMengubah gamemode ke mode Creatice!"
 gma.on: "§b[MoreUI] §aMengubah gamemode ke mode Adventure!"
 gmsp.on: "§b[MoreUI] §aMengubah gamemode ke mode Spectactor!"
@@ -13,15 +13,15 @@ night.time: "§b[MoreUI] §aMengubah cuaca ke malam!"
 # MenuUI
 mui.title: "§l§eMore§bUI"
 mui.content: "§bPilih salah satu command:"
-mui.fly: "§aFly"
-mui gmui: "§aGamemode"
-mui.time: "§aTimeSet"
+mui.flyui: "§aFly"
+mui.gmui: "§aGamemode"
+mui.tmset: "§aTimeSet"
 
 # FlyUI content
 fly.title: "§l§eFly§bUI"
 fly.content: "§bPilih untuk mengaktifkan Fly:"
 fly.on: "§aON"
-fly off: "§cOFF"
+fly.off: "§cOFF"
 fly.back: "§cKembali"
 
 # GMUI content
