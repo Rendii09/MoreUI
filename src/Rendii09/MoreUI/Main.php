@@ -125,7 +125,7 @@ class Main extends PluginBase implements Listener{
             switch($result){
                 case 0:
                     $sender->setGamemode(0);
-                    $sender->sendMessage("$this->getConfig()->get("gms.on"));
+                    $sender->sendMessage($this->getConfig()->get("gms.on"));
                     $sender->addTitle("§l§eSurvival!", "§fDiaktifkan");
                 break;
                 case 1:
