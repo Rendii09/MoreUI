@@ -1,12 +1,9 @@
-# MoreUI
-MoreUI is a command plugin in one UI
+# Plugin Info
+ - Command : /mui
+ - Permission : mui.cmd
+ - Api : 3.x.x
 
 # Required Form
-- [x] FormAPI
-
-# Commands
-Command | Permission | Default
-------- | ---------- | --------
-/mui | mui.cmd | op
+- [x] FormAPI ([click here](https://poggit.pmmp.io/p/FormAPI) to download)
 
 © Rendii09 - MoreUI
